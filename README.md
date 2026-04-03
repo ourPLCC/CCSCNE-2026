@@ -31,7 +31,6 @@ not able to, no worries, we'll have you team up with someone who has.
     * 20m Exercise
     * 5m Solution
 
-* 30m Curriculum (V6, ABC, OBJ)
+* 30m Experience Teaching with PLCC
 
-* 20m How to Adopt
-
+(10m flex time)
