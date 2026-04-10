@@ -1,4 +1,4 @@
-# PLCC Workshop - CCSCNE 2025
+# PLCC Workshop - CCSCNE 2026
 
 ## Pre-Workshop Setup
 
@@ -15,23 +15,22 @@ not able to, no worries, we'll have you team up with someone who has.
     * 10m Team Up and Setup
 
 * 35m Lexical Analysis
-    * 10m Pres
+    * 10m Presentation
     * 20m Exercise
     * 5m Solution
 
 * 35m Syntactic Analysis
-    * 10m Pres
+    * 10m Presentation
     * 20m Exercise
     * 5m Solution
 
 * 10m Break
 
 * 30m Semantic Analysis
-    * 5m Pres
+    * 5m Presentation
     * 20m Exercise
     * 5m Solution
 
-* 30m Curriculum (V6, ABC, OBJ)
+* 30m Experience Teaching with PLCC
 
-* 20m How to Adopt
-
+(10m flex time)
